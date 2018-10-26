@@ -28,6 +28,10 @@ h2 {
     font-size: 2rem;
 }
 
+.txt-type > .txt {
+    border-right: 0.2rem solid #000;
+}
+
 @media(min-width: 1200px) {
     h1 {
         font-size: 5rem;
